@@ -2,11 +2,11 @@
 
 ## Instagram Clone With React Native - Not functional only UI
 
-<img src="https://raw.githubusercontent.com/srisaikamal/Interviewbase/master/InterviewBase1.png"
-     alt="InterviewBase" />
+<img src="https://raw.githubusercontent.com/srisaikamal/Instagram-clone/master/Screenshots/SS1.jpg"
+     alt="InstaClone" />
 
-<img src="https://raw.githubusercontent.com/srisaikamal/Interviewbase/master/InterviewBase2.png"
-     alt="InterviewBase" />
+<img src="https://raw.githubusercontent.com/srisaikamal/Instagram-clone/master/Screenshots/SS2.jpg"
+     alt="Instaclone" />
 
 MIT License
 
